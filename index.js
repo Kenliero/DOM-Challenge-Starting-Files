@@ -1,1 +1,1 @@
-document.query
+document.querySelector("button").classList.toggle("huge");
